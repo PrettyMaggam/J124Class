@@ -23,6 +23,15 @@ __this is also bold__ <br>
    2. Subitem 2
 
 **_How to upload an image_**
-1.  Upload and image to GitHub (upload a new file)
+1.  Upload an image to GitHub (upload a new file)
 2.  Reference the file in your markdown
 3.  Be sure to add alt text description to your image
+
+'!['Name of the image','Alt text'](/File path to the image or an image URL)'
+
+*This is a link*
+[Google]()
+
+*This is a blackquote*
+
+In the wise words of "Diggity"
