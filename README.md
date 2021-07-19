@@ -24,4 +24,5 @@ __this is also bold__ <br>
 
 **_How to upload an image_**
 1.  Upload and image to GitHub (upload a new file)
-2.  Reet=rence the file in your markdown
+2.  Reference the file in your markdown
+3.  Be sure to add alt text description to your image
